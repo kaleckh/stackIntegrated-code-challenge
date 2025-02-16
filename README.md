@@ -1,14 +1,7 @@
 ## start details
 
-In this project I kept the structure simple, but if this were a larger project I would organize it using feature folders with routes and a controller. something like this probably. 
+In this project I kept the structure simple, but if this were a larger project I would organize by feature in folders with routes and a controller. 
 
-src/
-  people/
-    peopleRoutes.js
-    peopleController.js
-  planets/
-    planetsRoutes.js
-    planetsController.js  
 
 ## How to start the server
 npm i
